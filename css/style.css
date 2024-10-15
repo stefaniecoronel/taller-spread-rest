@@ -1,0 +1,13 @@
+#contenedor-forms{
+    display: flex;
+    justify-content: center;
+}
+
+.forms{
+    padding:20%;
+}
+
+h5{
+    text-align: center;
+    padding-bottom: 5%;
+}
